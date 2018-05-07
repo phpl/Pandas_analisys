@@ -1,3 +1,3 @@
 # Pandas_analisys
 
-Simple analisys of data saved in jupyter file.
+Simple analisys made in jupyter notebook.
